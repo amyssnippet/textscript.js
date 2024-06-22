@@ -1,5 +1,5 @@
 function rakeFunction1() {
-  let a = 1;
+  let a = 7;
   let b = 'Hello';
   let c = [1, 2, 3];
   let d = { name: 'John', age: 30 };
