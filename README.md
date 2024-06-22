@@ -72,6 +72,7 @@ email us at amyssnipet@yahoo.com
 
 ### 2. add a attribute named Prefix 
 for adding a prefix text for more greater control over typing
+
 `data-textscript-prefix="Your Prefix here"`
 
 
