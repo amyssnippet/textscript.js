@@ -398,16 +398,6 @@ function rakeFunction5() {
 }
 rakeFunction5();
 import {TextScript} from 'https://codeboxinterface.vercel.app/ts2.js';
-document.addEventListener('DOMContentLoaded', () => {
-  const elements = document.querySelectorAll('[data-textscript-strings]');
-  elements.forEach((element) => {
-    const strings = element.getAttribute('data-textscript-strings').split(',');
-    const typeSpeed = parseInt(element.getAttribute('data-textscript-typespeed'), 10) || 100;
-    const backSpeed = parseInt(element.getAttribute('data-textscript-backspeed'), 10) || 50;
-    const loop = element.getAttribute('data-textscript-loop') === 'true';
-    new TextScript(element, { strings, typeSpeed, backSpeed, loop });
-  });
-});
 function rakeFunction3() {
   let a = 1;
   let b = 'Hello';
