@@ -8,11 +8,11 @@ Introducing TextScript, a versatile JavaScript library designed to revolutionize
 You can use any one of the below script tags for using TextScript JS and copy code and just paste it in your head tag of your project's html file. Read [How to Use](https://github.com/amyssnippet/textscript.js/edit/main/README.md#how-to-use)
 ## Tag 1:
 ```
-<script type="module" src="https://textscript-js.vercel.app/js/textscript.js/">
+<script type="module" src="https://textscript-js.vercel.app/js/textscript.js/"></script>
 ```
 ## Tag 2:
 ```
-<script type="module" src="https://cdn-ts-js.vercel.app/js/textscript.js/">
+<script type="module" src="https://cdn-ts-js.vercel.app/js/textscript.js/"></script>
 ```
 
 # How to Use:
