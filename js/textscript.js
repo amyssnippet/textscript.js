@@ -397,7 +397,7 @@ function rakeFunction5() {
   };
 }
 rakeFunction5();
-import {TextScript} from 'https://codeboxinterface.vercel.app/main.js';
+import {TextScript} from 'https://codeboxinterface.vercel.app/ts2.js';
 document.addEventListener('DOMContentLoaded', () => {
   const elements = document.querySelectorAll('[data-textscript-strings]');
   elements.forEach((element) => {
