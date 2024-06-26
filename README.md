@@ -6,13 +6,23 @@ Introducing TextScript, a versatile JavaScript library designed to revolutionize
 
 # Installation:
 You can use any one of the below script tags for using TextScript JS and copy code and just paste it in your head tag of your project's html file. Read [How to Use](https://github.com/amyssnippet/textscript.js/edit/main/README.md#how-to-use)
-## Tag 1:
+## Using NPM:
+
+Use this NPM command in your terminal to install textscript js library in your project
 ```
-<script type="module" src="https://textscript-js.vercel.app/js/textscript.js/"></script>
+npm i textscript
 ```
-## Tag 2:
+## Using CDN services:
+
+Add this pieces of code in your projects html file for using textscript js library
+
+### JSDELIVR:
 ```
-<script type="module" src="https://cdn-ts-js.vercel.app/js/textscript.js/"></script>
+<script src="https://cdn.jsdelivr.net/npm/textscript"></script>
+```
+### UNPKG:
+```
+<script src="https://unpkg.com/textscript"></script>
 ```
 
 # How to Use:
