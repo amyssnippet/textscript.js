@@ -1,6 +1,6 @@
 # TextScript.js
 
-### view v1.1 [here](#v1.1)
+### view latest version [here](#v1.1.0)
 
 Introducing TextScript, a versatile JavaScript library designed to revolutionize the way you incorporate text animations into your web projects. TextScript is crafted with simplicity and functionality in mind, allowing developers of all skill levels to seamlessly create dynamic, engaging typographical effects. Whether you're looking to implement typewriter-style animations, smooth text transitions, or interactive text-based interfaces, TextScript provides a robust set of features to bring your vision to life. With customizable options for typing speed, backspacing, looping, and a variety of animation styles, TextScript offers unparalleled flexibility and control. Elevate your website’s user experience by adding captivating text effects that draw attention, enhance storytelling, and keep users engaged. Easy to integrate and highly adaptable, TextScript is the perfect solution for developers seeking to add a professional and polished touch to their web content. Explore the possibilities with TextScript and transform the way you present text on the web.
 
@@ -74,7 +74,7 @@ Start using it right now
 # Query support
 email us at amyssnipet@yahoo.com
 
-# v1.1
+# v1.1.0
 
 ## updates
 
@@ -83,7 +83,9 @@ email us at amyssnipet@yahoo.com
 ### 2. add a attribute named Prefix 
 for adding a prefix text for more greater control over typing
 
-`data-textscript-prefix="Your Prefix here"`
+```
+data-textscript-prefix="Your Prefix here"
+```
 
 
 ### 3. fixed bugs.
